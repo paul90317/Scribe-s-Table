@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "cutlass_unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "better_anvil:better_anvil"
+            }
+        }
+    },
+    "rewards": {
+        "function": "better_anvil:craft/better_anvil"
+    }
+}

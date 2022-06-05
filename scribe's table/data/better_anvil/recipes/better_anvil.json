@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " w ",
+        "ece",
+        "ccc"
+    ],
+    "key": {
+        "e": {
+            "item": "minecraft:emerald_block"
+        },
+        "c": {
+            "item": "minecraft:crying_obsidian"
+        },
+        "w": {
+            "item": "minecraft:writable_book"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

@@ -1,0 +1,3 @@
+setblock ~ ~ ~ dropper[facing=up]{CustomName:'{"text": "Scribe\'s Table","color":"light_purple","italic": false}'}
+summon glow_item_frame ~ ~1 ~ {Tags:[btav],Facing:1b,Item:{id:"minecraft:writable_book",Count:1b,tag:{Enchantments:[{id:"minecraft:binding_curse",lvl:1}],display:{Name:'{"text": "Scribe\'s Table","color":"light_purple","italic": false}'}}},Invulnerable:1b,Fixed:1b,CustomNameVisible:1b}
+kill @s
